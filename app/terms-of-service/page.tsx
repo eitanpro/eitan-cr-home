@@ -78,7 +78,7 @@ export default function Web() {
                     <section className="mb-8">
                         <h2 className={titleStyle2}>WhatsApp Business Provider Compliance</h2>
                         <p className={textStyle2}>
-                            ERC operates in compliance with WhatsApp's Business Policy. As a WhatsApp Business Provider, ERC ensures that businesses using our platform follow WhatsApp’s guidelines, which include:
+                            ERC operates in compliance with WhatsApp&apos;s Business Policy. As a WhatsApp Business Provider, ERC ensures that businesses using our platform follow WhatsApp&apos;s guidelines, which include:
                         </p>
                         <ul className={`list-disc ml-5 ${textStyle2}`}>
                             <li>Businesses are restricted from sending unsolicited messages to clients.</li>
@@ -87,7 +87,7 @@ export default function Web() {
                             <li>Data collected through WhatsApp messaging is stored securely, and ERC does not share this data with any third parties.</li>
                         </ul>
                         <p className={textStyle2}>
-                            Any misuse of WhatsApp’s platform, such as sending unsolicited messages or engaging in prohibited activities, will result in immediate account suspension or termination in accordance with WhatsApp’s terms and conditions.
+                            Any misuse of WhatsApp&apos;s platform, such as sending unsolicited messages or engaging in prohibited activities, will result in immediate account suspension or termination in accordance with WhatsApp&apos;s terms and conditions.
                         </p>
                     </section>
 

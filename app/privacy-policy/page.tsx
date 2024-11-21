@@ -87,7 +87,7 @@ export default function Web() {
                 <section className="mb-8">
                     <h2 className={titleStyle2}>6. WhatsApp Business Provider Compliance</h2>
                     <p className={textStyle2}>
-                        In alignment with WhatsApp's policies for Business Service Providers, ERC ensures the following:
+                        In alignment with WhatsApp&apos;s policies for Business Service Providers, ERC ensures the following:
                     </p>
                     <ul className={`list-disc ml-5 ${textStyle2}`}>
                         <li>All communication data, including WhatsApp messages, is stored securely on AWS servers and encrypted to protect user privacy.</li>
@@ -103,7 +103,7 @@ export default function Web() {
                 <section className="mb-8">
                     <h2 className={titleStyle2}>7. Policy Changes</h2>
                     <p className={textStyle2}>
-                        We reserve the right to change this privacy policy at any time. Any updates will be reflected on this page, and it is the user’s responsibility to review the policy regularly.
+                        We reserve the right to change this privacy policy at any time. Any updates will be reflected on this page, and it is the user&apos;s responsibility to review the policy regularly.
                     </p>
                 </section>
 
