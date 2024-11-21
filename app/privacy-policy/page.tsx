@@ -49,7 +49,7 @@ export default function Web() {
                 <section className="mb-8">
                     <h2 className={titleStyle2}>2. Data Storage</h2>
                     <p className={textStyle2}>
-                        All collected data is securely stored on AWS servers. Data is retained for as long as necessary to fulfill business purposes, but we respect users' right to delete their data upon request.
+                        All collected data is securely stored on AWS servers. Data is retained for as long as necessary to fulfill business purposes, but we respect users&apos; right to delete their data upon request.
                     </p>
                 </section>
 
@@ -95,7 +95,7 @@ export default function Web() {
                         <li>We do not use customer data for training AI models or any other purpose beyond enabling communication between businesses and their customers.</li>
                         <li>Customer data is never shared with third-party organizations without consent.</li>
                         <li>In case of a data breach, both businesses and customers will be notified promptly in compliance with applicable regulations.</li>
-                        <li>All communication through WhatsApp follows WhatsApp’s branding and messaging guidelines to ensure a consistent and professional user experience.</li>
+                        <li>All communication through WhatsApp follows WhatsApp&apos;s branding and messaging guidelines to ensure a consistent and professional user experience.</li>
                         <li>Businesses and their customers can reach out to us at eitan.rc [at] outlook.com for any queries or concerns regarding data handling or communication management.</li>
                     </ul>
                 </section>

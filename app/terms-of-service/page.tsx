@@ -60,7 +60,7 @@ export default function Web() {
                     <section className="mb-8">
                         <h2 className={titleStyle2}>Data & Privacy</h2>
                         <p className={textStyle2}>
-                            All communication data between businesses and clients is securely stored by ERC, the technology provider. Businesses are required to comply with ERC’s privacy policy.
+                            All communication data between businesses and clients is securely stored by ERC, the technology provider. Businesses are required to comply with ERC&apos;s privacy policy.
                         </p>
                     </section>
 
@@ -68,7 +68,7 @@ export default function Web() {
                     <section className="mb-8">
                         <h2 className={titleStyle2}>Liability Disclaimer</h2>
                         <p className={textStyle2}>
-                            The ERC platform is provided "as-is". Businesses should be aware that the platform relies on the stability of the underlying software and may experience occasional instability or temporary issues.
+                            The ERC platform is provided &quot;as-is&quot;. Businesses should be aware that the platform relies on the stability of the underlying software and may experience occasional instability or temporary issues.
                             <br />
                             ERC is not liable for any losses due to missed appointments caused by system failures, message delivery issues, or technical downtime.
                         </p>
@@ -94,7 +94,7 @@ export default function Web() {
                     <section className="mb-8">
                         <h2 className={titleStyle2}>Policy Changes</h2>
                         <p className={textStyle2}>
-                            We reserve the right to change this privacy policy at any time. Any updates will be reflected on this page, and it is the user’s responsibility to review the policy regularly.
+                            We reserve the right to change this privacy policy at any time. Any updates will be reflected on this page, and it is the user&apos;s responsibility to review the policy regularly.
                         </p>
                     </section>
 
