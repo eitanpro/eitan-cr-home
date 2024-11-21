@@ -78,7 +78,7 @@ export default function Web() {
                     <section className="mb-8">
                         <h2 className={titleStyle2}>WhatsApp Business Provider Compliance</h2>
                         <p className={textStyle2}>
-                            ERC operates in compliance with WhatsApp's Business Policy. As a WhatsApp Business Provider, ERC ensures that businesses using our platform follow WhatsApp's guidelines, which include:
+                            ERC operates in compliance with WhatsApp&lsquo;s Business Policy. As a WhatsApp Business Provider, ERC ensures that businesses using our platform follow WhatsApp&lsquo;s guidelines, which include:
                         </p>
                         <ul className={`list-disc ml-5 ${textStyle2}`}>
                             <li>Businesses are restricted from sending unsolicited messages to clients.</li>
