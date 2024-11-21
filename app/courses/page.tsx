@@ -1,6 +1,5 @@
 import { Metadata } from "next"
 import { Button } from "components/Button/Button"
-import { LP_GRID_ITEMS } from "lp-items"
 import Image from "next/image"
 
 export const metadata: Metadata = {
@@ -21,10 +20,6 @@ export const metadata: Metadata = {
 }
 
 export default function Courses() {
-    const automationLink = "/automation"
-    const consultingLink = "/consulting"
-    const coursesLink = "/courses"
-
     const titleStyle = "mb-6 max-w-2xl text-4xl font-extrabold leading-none tracking-tight md:text-5xl xl:text-5xl";
     const textStyle = "mb-3 max-w-2xl font-light text-black md:text-lg lg:mb-4 lg:text-xl";
     const titleStyle2 = "text-2xl font-semibold mb-4";

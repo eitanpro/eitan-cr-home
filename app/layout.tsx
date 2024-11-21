@@ -1,6 +1,6 @@
 import "styles/tailwind.css"
-import TopNav from "components/TopNav/TopNav"
 import FooterNav from "components/FooterNav/Nav"
+import TopNav from "components/TopNav/TopNav"
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
