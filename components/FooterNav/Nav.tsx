@@ -4,7 +4,7 @@ const FooterNav = () => {
   return (
     <footer className="bg-gray-900 text-gray-400 py-12">
       <div className="container mx-auto px-4">
-        <div className="grid md:grid-cols-4 gap-8">
+        <div className="grid md:grid-cols-1 gap-8">
           <div>
             <h3 className="text-white text-lg font-semibold mb-4">About Us</h3>
             <ul className="space-y-2">
@@ -13,7 +13,7 @@ const FooterNav = () => {
               </li>
             </ul>
           </div>
-          <div>
+          {/* <div>
             <h3 className="text-white text-lg font-semibold mb-4">Products</h3>
             <ul className="space-y-2">
               <li className="hover:text-white cursor-pointer">
@@ -22,14 +22,11 @@ const FooterNav = () => {
               <li className="hover:text-white cursor-pointer">
                 <Link href="https://kaliber.vercel.app/">Kaliber</Link>
               </li>
-              {/* <li className="hover:text-white cursor-pointer">
+              <li className="hover:text-white cursor-pointer">
                 HeartCode
               </li>
-              <li className="hover:text-white cursor-pointer">
-                Kaliber
-              </li> */}
             </ul>
-          </div>
+          </div> */}
           {/* <div>
             <h3 className="text-white text-lg font-semibold mb-4">Resources</h3>
             <ul className="space-y-2">
