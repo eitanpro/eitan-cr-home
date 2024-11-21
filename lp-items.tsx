@@ -21,7 +21,7 @@ export const LP_GRID_ITEMS = [
   },
   {
     title: "Work smart, not hard",
-    description: "We teach you the skills you need to succeed in today's tech world.",
+    description: "We teach you the skills you need to succeed in today&apos;s tech world.",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
