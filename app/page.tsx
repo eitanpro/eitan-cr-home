@@ -81,8 +81,8 @@ export default function Web() {
           <div className="mx-auto place-self-center">
             <h2 className={titleStyle}>Contact Us</h2>
             <div className={`space-y-4 text-black ${textStyle}`}>
-              <p><span className="font-semibold">Business Name:</span> Eitan Research Consultant</p>
-              <p><span className="font-semibold">Location:</span> Tel Aviv, Israel</p>
+              <p className="font-semibold"><span>Business Name:</span> Eitan Research Consultant</p>
+              <p className="font-semibold"><span>Location:</span> Tel Aviv, Israel</p>
               <p>
                 <span className="font-semibold">Let&apos;s connect:</span>&nbsp;
                 <a href="mailto:eitan.rc@outlook.com?subject=Let's%20Connect&body=Hi%20Eitan%2C%0A%0AI'd%20love%20to%20connect%20with%20you%20about..." className="text-blue-700 font-bold font-bold hover:underline cursor-pointer">
