@@ -20,10 +20,10 @@ export const metadata: Metadata = {
     },
 }
 
-export default function Teaching() {
+export default function Courses() {
     const automationLink = "/automation"
     const consultingLink = "/consulting"
-    const teachingLink = "/teaching"
+    const coursesLink = "/courses"
 
     const titleStyle = "mb-6 max-w-2xl text-4xl font-extrabold leading-none tracking-tight md:text-5xl xl:text-5xl";
     const textStyle = "mb-3 max-w-2xl font-light text-black md:text-lg lg:mb-4 lg:text-xl";
@@ -86,7 +86,7 @@ Please contact me at [Your Email] or [Your Phone Number].`,
                 <div className="mx-auto grid max-w-screen-xl px-4 py-8 text-center lg:py-16 relative z-10">
                     <div className="mx-auto place-self-center">
                         <h1 className={titleStyle}>
-                            Teaching
+                            Courses
                         </h1>
                     </div>
                 </div>

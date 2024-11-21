@@ -4,12 +4,26 @@ const FooterNav = () => {
   return (
     <footer className="bg-gray-900 text-gray-400 py-12">
       <div className="container mx-auto px-4">
-        <div className="grid md:grid-cols-1 gap-8">
+        <div className="grid md:grid-cols-1 lg:grid-cols-4 gap-8">
           <div>
             <h3 className="text-white text-lg font-semibold mb-4">About Us</h3>
             <ul className="space-y-2">
               <li className="hover:text-white cursor-pointer">
                 <Link href="/">Home</Link>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <h3 className="text-white text-lg font-semibold mb-4">Links</h3>
+            <ul className="space-y-2">
+              <li className="hover:text-white cursor-pointer">
+                <Link href="/automation">Automation</Link>
+              </li>
+              <li className="hover:text-white cursor-pointer">
+                <Link href="/consulting">Consulting</Link>
+              </li>
+              <li className="hover:text-white cursor-pointer">
+                <Link href="/courses">Courses</Link>
               </li>
             </ul>
           </div>

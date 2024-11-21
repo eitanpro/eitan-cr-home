@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Web() {
     const automationLink = "/automation"
     const consultingLink = "/consulting"
-    const teachingLink = "/teaching"
+    const coursesLink = "/courses"
 
     const titleStyle = "mb-6 max-w-2xl text-4xl font-extrabold leading-none tracking-tight md:text-5xl xl:text-5xl";
     const textStyle = "mb-6 max-w-2xl font-light text-black md:text-lg lg:mb-8 lg:text-xl";
@@ -45,7 +45,7 @@ export default function Web() {
                         <h2 className={titleStyle2}>Free Trial & Payment Structure</h2>
                         <p className={textStyle2}>
                             We do not offer a free trial. All consultations meetings are paid in advance.
-                            The teaching sessions are paid in advance as well.
+                            The courses are paid in advance as well.
                             The automation projects may offer a free trial of up to 1 month, depending on the project complexity.
                         </p>
                     </section>

@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Web() {
     const automationLink = "/automation"
     const consultingLink = "/consulting"
-    const teachingLink = "/teaching"
+    const coursesLink = "/courses"
 
     const titleStyle = "mb-6 max-w-2xl text-4xl font-extrabold leading-none tracking-tight md:text-5xl xl:text-5xl";
     const textStyle = "mb-6 max-w-2xl font-light text-black md:text-lg lg:mb-8 lg:text-xl";
