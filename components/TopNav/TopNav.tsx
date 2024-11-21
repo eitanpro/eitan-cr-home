@@ -40,7 +40,7 @@ export default function TopNav() {
           </div>
 
           {/* Logo */}
-          <div className="flex-shrink-0 flex items-center">
+          <div className="flex-shrink-0 flex items-center ml-auto sm:ml-0">
             <Link href="/" passHref>
               <img
                 src="/lion.png"
