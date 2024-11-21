@@ -1,7 +1,7 @@
 "use client"
 
 import React, { useState } from "react";
-import { usePathname, useSearchParams } from 'next/navigation'
+import { usePathname } from 'next/navigation'
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 import Link from "next/link";
 
@@ -20,8 +20,6 @@ function classNames(...classes: string[]) {
 export default function TopNav() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const pathname = usePathname();
-  const searchParams = useSearchParams();
-  const query = searchParams.get('search');
 
   return (
     <nav dir="ltr" className="bg-gray-800">
