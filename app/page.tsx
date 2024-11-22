@@ -1,24 +1,6 @@
-import { Metadata } from "next"
 import { Button } from "components/Button/Button"
 import { LP_GRID_ITEMS } from "lp-items"
 import Image from "next/image"
-
-export const metadata: Metadata = {
-  title: "Eitan Research Consultant",
-  twitter: {
-    card: "summary_large_image",
-  },
-  openGraph: {
-    url: "https://eitan-research-consultant.pages.dev/",
-    images: [
-      {
-        width: 1200,
-        height: 630,
-        url: "https://eitan-research-consultant.pages.dev/Logo2.png",
-      },
-    ],
-  },
-}
 
 export default function Web() {
   const automationLink = "/automation"
